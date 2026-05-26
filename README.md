@@ -43,7 +43,7 @@ I am an aspiring software developer with a strong foundation in full-stack web d
 ## 📬 Connect with Me
 
 * **LinkedIn:** [Suryansh Yadav](https://www.linkedin.com/in/suryansh-yadav-ba1339395/)
-* **GitHub:** [@Suryansh0ly](https://github.com/Suryansh0ly)
+* **GitHub:** [@Suryansh01y](https://github.com/Suryansh01y)
 * **Email:** [suryansh0lyadav@gmail.com](mailto:suryansh0lyadav@gmail.com)
 
 ⚡ *“Focused on creating responsive, efficient solutions and constantly leveling up my coding journey.”*
