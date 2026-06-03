@@ -7,7 +7,7 @@ I am a motivated software developer with a strong foundation in full-stack web d
 
 ## 🛠️ Technical Skills
 
-* **Programming Languages:** C, C++, Java, JavaScript
+* **Programming Languages:** C, Java, JavaScript
 * **Web Development:** HTML, CSS, Bootstrap, React.js, Node.js, Express.js
 * **Databases:** MongoDB, MySQL
 * **Tools & Technologies:** Git, GitHub, VS Code
@@ -24,7 +24,7 @@ I am a motivated software developer with a strong foundation in full-stack web d
     * Dynamic UI rendering using EJS templates.
     * Responsive and intuitive design for seamless cross-device browsing.
 
-### ☀️ [Weather Forecaster - Real-Time Weather App](https://github.com/Suryansh0ly)
+### ☀️ [NowCast - Real-Time Weather Web App](https://github.com/Suryansh0ly)
 *A clean, interactive frontend application delivering live weather data.*
 * **Tech Stack:** HTML, CSS, JavaScript, Weather API
 * **Key Features:**
@@ -36,7 +36,7 @@ I am a motivated software developer with a strong foundation in full-stack web d
 
 ## 🎓 Education
 
-* **Bachelor of Computer Applications (BCA)** * *Microtek College of Management and Technology* | 2024 - 2027
+* **Bachelor of Computer Applications (BCA)** * *Microtek College of Management and Technology* | 2024 - Present
 
 ---
 
