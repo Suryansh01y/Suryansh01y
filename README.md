@@ -1,7 +1,7 @@
 # Hi there, I'm Suryansh! 👋
 ### Software Developer | BCA Student
 
-I am an aspiring software developer with a strong foundation in full-stack web development and computer applications. I love building responsive, user-friendly applications and bridging the gap between frontend design and backend logic. I am always eager to learn new technologies and solve complex programming challenges.
+I am a motivated software developer with a strong foundation in full-stack web development and computer applications. I love building responsive, user-friendly applications and bridging the gap between frontend design and backend logic. I am always eager to learn new technologies and solve complex programming challenges.
 
 ---
 
@@ -17,7 +17,7 @@ I am an aspiring software developer with a strong foundation in full-stack web d
 
 ## 🚀 Featured Projects
 
-### 🌍 [Wanderlust - Travel Listing Web Application](https://github.com/Suryansh0ly)
+### 🌍 [RentX - Travel Listing Web Application](https://github.com/Suryansh0ly)
 *A full-stack travel web application that enables users to browse and manage travel destinations.*
 * **Tech Stack:** Node.js, Express.js, EJS, MongoDB, CSS
 * **Key Features:** * Full CRUD functionality (Create, Read, Update, Delete) for travel listings.
