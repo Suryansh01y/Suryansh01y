@@ -23,15 +23,7 @@ I am a motivated software developer with a strong foundation in full-stack web d
 * **Key Features:** * Full CRUD functionality (Create, Read, Update, Delete) for travel listings.
     * Dynamic UI rendering using EJS templates.
     * Responsive and intuitive design for seamless cross-device browsing.
-
-### ☀️ [NowCast - Real-Time Weather Web App](https://github.com/Suryansh0ly)
-*A clean, interactive frontend application delivering live weather data.*
-* **Tech Stack:** HTML, CSS, JavaScript, Weather API
-* **Key Features:**
-    * Fetches and displays real-time weather data via external API integration.
-    * City search functionality detailing temperature, humidity, wind speed, and atmospheric pressure.
-    * Modern, user-friendly user interface.
-
+      
 ---
 
 ## 🎓 Education
@@ -42,7 +34,7 @@ I am a motivated software developer with a strong foundation in full-stack web d
 
 ## 📬 Connect with Me
 
-* **LinkedIn:** [Suryansh Yadav](https://www.linkedin.com/in/suryansh-yadav-ba1339395/)
+* **LinkedIn:** [Suryansh.](https://www.linkedin.com/in/suryansh-ba1339395)
 * **GitHub:** [@Suryansh01y](https://github.com/Suryansh01y)
 * **Email:** [suryansh0lyadav@gmail.com](mailto:suryansh0lyadav@gmail.com)
 
